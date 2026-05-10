@@ -11,8 +11,9 @@ CONTENTS                                           *airline-theme-contents*
    01. Intro ........................................ |airline-themes-intro|
    02. Features ........................................... |airline-themes|
    03. Configuration ........................ |airline-themes-configuration|
-   04. Contributions ........................ |airline-themes-contributions|
-   05. License .................................... |airline-themes-license|
+   04. Theme Explorer ............................ |airline-themes-explorer|
+   05. Contributions ........................ |airline-themes-contributions|
+   06. License .................................... |airline-themes-license|
 
 ==============================================================================
 INTRODUCTION                                         *airline-themes-intro*
@@ -428,6 +429,12 @@ it will generate every included base16 theme.
 
 These themes were generated using the Python builder which is available here:
 https://github.com/InspectorMustache/base16-builder-python
+
+==============================================================================
+THEME EXPLORER                                *airline-themes-explorer*
+
+If fzf.vim plugin is installed live preview available with
+`:AirlineThemesExplorer` command like builtin `:Colors` command in fzf.vim
 
 ==============================================================================
 CONTRIBUTIONS                                *airline-themes-contributions*
